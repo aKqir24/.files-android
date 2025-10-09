@@ -1,0 +1,21 @@
+set $wallpaper /data/data/com.termux/files/home/Pictures/Wallpapers/wallpaper.jpg
+
+set $background #1d2419
+set $foreground #c6c8c5
+
+set $color0 #1d2419
+set $color1 #A6AD6F
+set $color2 #72A783
+set $color3 #D2B59B
+set $color4 #BAC38C
+set $color5 #C4C88C
+set $color6 #F0D1B2
+set $color7 #c6c8c5
+set $color8 #6a7761
+set $color9 #A6AD6F
+set $color10 #72A783
+set $color11 #D2B59B
+set $color12 #BAC38C
+set $color13 #C4C88C
+set $color14 #F0D1B2
+set $color15 #c6c8c5

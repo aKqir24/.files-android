@@ -1,0 +1,24 @@
+wallpaper: "/data/data/com.termux/files/home/Pictures/Wallpapers/wallpaper.jpg"
+
+special:
+    background: "#1d2419"
+    foreground: "#c6c8c5"
+    cursor: "#c6c8c5"
+
+colors:
+    color0: "#1d2419"
+    color1: "#A6AD6F"
+    color2: "#72A783"
+    color3: "#D2B59B"
+    color4: "#BAC38C"
+    color5: "#C4C88C"
+    color6: "#F0D1B2"
+    color7: "#c6c8c5"
+    color8: "#6a7761"
+    color9: "#A6AD6F"
+    color10: "#72A783"
+    color11: "#D2B59B"
+    color12: "#BAC38C"
+    color13: "#C4C88C"
+    color14: "#F0D1B2"
+    color15: "#c6c8c5"

@@ -1,0 +1,28 @@
+{
+    "checksum": "e5a054e4774f25b9cc9c792700f80be6",
+    "wallpaper": "/data/data/com.termux/files/home/Pictures/Wallpapers/chibi-kaguya-shinomiya-kaguya-sama-desktop-wallpaper-4k.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#200e18",
+        "foreground": "#c7c2c5",
+        "cursor": "#c7c2c5"
+    },
+    "colors": {
+        "color0": "#200e18",
+        "color1": "#C57A84",
+        "color2": "#D99399",
+        "color3": "#F5AFB1",
+        "color4": "#E3BCBA",
+        "color5": "#D6CAD6",
+        "color6": "#FFD4C2",
+        "color7": "#c7c2c5",
+        "color8": "#725d67",
+        "color9": "#C57A84",
+        "color10": "#D99399",
+        "color11": "#F5AFB1",
+        "color12": "#E3BCBA",
+        "color13": "#D6CAD6",
+        "color14": "#FFD4C2",
+        "color15": "#c7c2c5"
+    }
+}

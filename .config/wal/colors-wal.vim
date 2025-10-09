@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/data/data/com.termux/files/home/Pictures/Wallpapers/wallpaper.jpg"
+let background = "#1d2419"
+let foreground = "#c6c8c5"
+let cursor     = "#c6c8c5"
+
+" Colors
+let color0  = "#1d2419"
+let color1  = "#A6AD6F"
+let color2  = "#72A783"
+let color3  = "#D2B59B"
+let color4  = "#BAC38C"
+let color5  = "#C4C88C"
+let color6  = "#F0D1B2"
+let color7  = "#c6c8c5"
+let color8  = "#6a7761"
+let color9  = "#A6AD6F"
+let color10 = "#72A783"
+let color11 = "#D2B59B"
+let color12 = "#BAC38C"
+let color13 = "#C4C88C"
+let color14 = "#F0D1B2"
+let color15 = "#c6c8c5"

@@ -1,0 +1,28 @@
+{
+    "checksum": "6c490f630f9ea3fd7923d6abd5c85e25",
+    "wallpaper": "/data/data/com.termux/files/home/Pictures/Wallpapers/violet-evergarden-writing-letter-christmas-scene-pc-wallpaper-4k.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#121316",
+        "foreground": "#c3c4c4",
+        "cursor": "#c3c4c4"
+    },
+    "colors": {
+        "color0": "#121316",
+        "color1": "#93573C",
+        "color2": "#976648",
+        "color3": "#6F8D64",
+        "color4": "#D09F66",
+        "color5": "#CDB78C",
+        "color6": "#F0D7A4",
+        "color7": "#c3c4c4",
+        "color8": "#5b626f",
+        "color9": "#93573C",
+        "color10": "#976648",
+        "color11": "#6F8D64",
+        "color12": "#D09F66",
+        "color13": "#CDB78C",
+        "color14": "#F0D7A4",
+        "color15": "#c3c4c4"
+    }
+}

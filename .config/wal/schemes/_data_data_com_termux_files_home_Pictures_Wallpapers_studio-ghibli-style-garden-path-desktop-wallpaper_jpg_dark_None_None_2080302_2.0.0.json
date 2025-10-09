@@ -1,0 +1,28 @@
+{
+    "checksum": "93a86f777205855584389dd2cfbedc11",
+    "wallpaper": "/data/data/com.termux/files/home/Pictures/Wallpapers/studio-ghibli-style-garden-path-desktop-wallpaper.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d2015",
+        "foreground": "#c2c7c4",
+        "cursor": "#c2c7c4"
+    },
+    "colors": {
+        "color0": "#0d2015",
+        "color1": "#689F68",
+        "color2": "#66B073",
+        "color3": "#8FA86F",
+        "color4": "#9CC478",
+        "color5": "#617B86",
+        "color6": "#71B689",
+        "color7": "#c2c7c4",
+        "color8": "#5d7165",
+        "color9": "#689F68",
+        "color10": "#66B073",
+        "color11": "#8FA86F",
+        "color12": "#9CC478",
+        "color13": "#617B86",
+        "color14": "#71B689",
+        "color15": "#c2c7c4"
+    }
+}
