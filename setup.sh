@@ -155,6 +155,7 @@ lua51
 luajit
 luv
 make
+nala
 ncurses-ui-libs
 ncurses-utils
 ncurses
