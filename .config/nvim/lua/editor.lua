@@ -89,6 +89,12 @@ return {
     end,
   },
   {
+	'barrett-ruth/live-server.nvim',
+	build = 'pnpm add -g live-server',
+	cmd = { 'LiveServerStart', 'LiveServerStop' },
+	config = true
+  },
+  {
   'neovim/nvim-lspconfig', -- LSP config
   'hrsh7th/nvim-cmp',       -- Completion plugin
   'hrsh7th/cmp-nvim-lsp',   -- LSP source for nvim-cmp

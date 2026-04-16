@@ -37,7 +37,7 @@ fi
 #				Environment Variables				#
 # ================================================= #
 export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
-export CARGO_TARGET_DIR=$HOME/.cargo/build_files
+export CARGO_TARGET_DIR="$HOME/.cargo/build_files"
 export LD_LIBRARY_PATH=$PWD/bin:$LD_LIBRARY_PATH
 export FZF_DEFAULT_OPTS="--height 40% --reverse"
 export FZF_DEFAULT_COMMAND="find . -type f"
@@ -46,6 +46,9 @@ export ZED_ALLOW_EMULATED_GPU=1
 export OPENSSL_DIR=$PREFIX
 export GPG_TTY=$(tty)
 export WINEDEBUG=-all
+export COLOR_1="${color2#\#}"
+export COLOR_2="${color12#\#}"
+export LABEL_COLOR="${color12#\#}"
 
 # ================================================= #
 #					  Aliases						#

@@ -13,5 +13,4 @@ export XDG_SESSION_DESKTOP=gnome
 export PATH="$HOME/.local/bin:$PATH"
 export PATH="$HOME/.cargo/bin:$PATH"
 export PYWAL_CACHE_DIR="$HOME/.config/wal"
-export LD_LIBRARY_PATH=$PWD/bin:$LD_LIBRARY_PATH
-export SCRIPTS_FOLDER="$HOME/.files/resources/scripts"
+export LD_LIBRARY_PATH="$PWD/bin:$LD_LIBRARY_PATH"

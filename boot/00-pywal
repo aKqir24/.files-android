@@ -1,4 +1,4 @@
 #!/data/data/com.termux/files/usr/bin/sh
 
-wal --cols16 -n -q -i Pictures/Wallpapers
+wal --cols16 -n -q -i Pictures/Wallpapers --out-dir ~/.config/wal/
 clear ; sleep 0.5
